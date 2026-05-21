@@ -21,6 +21,6 @@ Great things are on the horizon, so stay tuned. Let's build something amazing!
 </p>
 
 <p align="center">
-  <a href="https://github.com/Carbaz"><img src="https://komarev.com/ghpvc/?username=Carbaz&color=yellowgreen&style=plastic&abbreviated=true&base=35"></a>
+  <a href="https://github.com/Carbaz"><img src="https://komarev.com/ghpvc/?username=Carbaz&color=yellowgreen&style=plastic&abbreviated=true"></a>
 </p>
 
