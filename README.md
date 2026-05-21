@@ -17,7 +17,7 @@ Great things are on the horizon, so stay tuned. Let's build something amazing!
 </p>
 
 <p align="center">
-  <a href=""><img src="https://skillicons.dev/icons?i=py,ai,aws,docker,flask,fastapi,c,github,githubactions,graphql,linux,postgres,raspberrypi,vscode"></a>
+  <a href="https://github.com/Carbaz"><img src="https://skillicons.dev/icons?i=py,aws,docker,ai,github,githubactions,vscode,md,flask,fastapi,c,linux,postgres"></a>
 </p>
 
 <p align="center">
